@@ -46,3 +46,4 @@ def plot_patient_number_heatmap():
     fig.set_size_inches(15, 15)
     fig.savefig('../reports/figures/patient_id_heatmap.png', dpi=300)
 
+
